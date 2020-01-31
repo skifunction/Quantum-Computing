@@ -1,0 +1,6 @@
+make a account at qiskit community and get your account id
+install qiskit 
+pip install qiskit
+conda install qiskit
+use jupyter lab for programming in qiskit
+You could even use cirq for accessing google's quantum computer.

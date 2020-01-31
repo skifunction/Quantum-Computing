@@ -1,5 +1,6 @@
 make a account at qiskit community and get your account id
 install qiskit 
+(for cirq use pip/conda install cirq)
 pip install qiskit
 conda install qiskit
 use jupyter lab for programming in qiskit
